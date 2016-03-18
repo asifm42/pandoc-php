@@ -3,7 +3,7 @@ Pandoc PHP
 
 [![Build Status](https://travis-ci.org/ondrs/pandoc-php.svg?branch=master)](https://travis-ci.org/ondrs/pandoc-php)
 
-Pandoc PHP is a naive wrapper for the Pandoc command. Pandoc is a Haskell
+Pandoc PHP is a native wrapper for the Pandoc command. Pandoc is a Haskell
 program that allows you to convert documents from one format to another. For
 more information on Pandoc you can look [here](https://github.com/jgm/pandoc).
 
@@ -20,7 +20,7 @@ The recommended method to installing Pandoc PHP is with [composer](http://getcom
 ```json
 {
     "require": {
-        "ondrs/pandoc-php": "dev-master"
+        "asifm42/pandoc-php": "dev-master"
     }
 }
 ```
