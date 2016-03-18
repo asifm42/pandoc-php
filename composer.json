@@ -1,12 +1,12 @@
 {
-  "name": "ondrs/pandoc-php",
+  "name": "asifm42/pandoc-php",
   "type": "library",
   "description": "PHP pandoc",
   "keywords": ["pandoc", "wrapper"],
   "license": ["MIT"],
   "require": {
     "php": ">=5.3.0",
-    "symfony/process": "2.5.3"
+    "symfony/process": "2.7.*"
   },
   "require-dev": {
     "nette/tester": "@dev"
